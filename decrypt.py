@@ -4,7 +4,7 @@ import numpy as np
 from PyQt6.QtWidgets import QApplication, QWidget, QVBoxLayout, QPushButton, QLabel, QLineEdit, QMessageBox
 
 # Encrypted image path
-IMAGE_PATH = r"C:\Users\Shiva Prasad\OneDrive\Desktop\encryptedImage123.png"
+IMAGE_PATH = r"C:\Users\Snehitha\OneDrive\Desktop\encryptedImage123.png"
 
 class DecryptGUI(QWidget):
     def __init__(self):
